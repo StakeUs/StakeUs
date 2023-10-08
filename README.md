@@ -1,10 +1,6 @@
 <h1 align="center">Welcome👋, We are StakeUs</h1>
 <h3 align="center">A Team of passionate and committed Validators based in Australia with the focus on Reliable, Assured & Secure Nodes</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=stakeus&label=Profile%20views&color=0e75b6&style=flat" alt="stakeus" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stakeus" alt="stakeus" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/stakeusxyz" target="blank"><img src="https://img.shields.io/twitter/follow/stakeusxyz?logo=twitter&style=for-the-badge" alt="stakeusxyz" /></a> </p>
 
 - Geolocation- **Harnessing Australia's Geographical Diversity for Reduced Latency. By hosting validator node in Australian locations, we're closer to various global connection points, thereby reducing latency and enhancing the speed and efficiency of your blockchain operations.**
